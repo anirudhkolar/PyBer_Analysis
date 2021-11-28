@@ -1,6 +1,7 @@
 # PyBer_Analysis
 
 1.	Overview of the analysis: Explain the purpose of the new analysis.
+2.	
 The purpose of this analysis was to analyze the difference in the fare of a rideshare based on the type of city in which the ride occurred.
 
 
