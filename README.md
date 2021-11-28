@@ -17,4 +17,5 @@ However, the opposite result is displayed when looking at Total Fares. Not only 
 
 
 3.	Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
 One recommendation could be to position a greater number of drivers in rural areas in order to take advantage of the greater fare prices per driver. Another recommendation could be to do the same for suburban areas as well, for the same reason. The last recommendation could be to position the drivers in Urban areas overnight – during this time, most public transportation in Urban areas is closed and most people in Rural and Suburban areas are asleep, which would make it the ideal time to position the most drivers in Urban areas due to significantly higher demand.
